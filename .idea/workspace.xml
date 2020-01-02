@@ -75,13 +75,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="497" y="44" key="CommitChangelistDialog2" timestamp="1577959160402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="497" y="44" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577959160402" />
     <state x="690" y="199" key="FileChooserDialogImpl" timestamp="1577959127006">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="199" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577959127006" />
+    <state width="946" height="267" key="GridCell.Tab.0.bottom" timestamp="1577959238766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="946" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577959238766" />
+    <state width="946" height="267" key="GridCell.Tab.0.center" timestamp="1577959238766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="946" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577959238766" />
+    <state width="946" height="267" key="GridCell.Tab.0.left" timestamp="1577959238766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="946" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577959238766" />
+    <state width="946" height="267" key="GridCell.Tab.0.right" timestamp="1577959238766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="946" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577959238766" />
     <state x="330" y="75" key="SettingsEditor" timestamp="1577959070355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="330" y="75" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577959070355" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1577959205243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577959205243" />
   </component>
 </project>
